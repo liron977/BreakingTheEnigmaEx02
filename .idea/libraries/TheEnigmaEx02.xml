@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="TheEnigmaEx02">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TheEnigmaEx02/DTOObjects.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TheEnigmaEx02/EngimaEngine.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TheEnigmaEx02/AnimateFX-1.2.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/TheEnigmaEx02/JavafxUI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

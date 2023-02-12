@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/BreakingTheEnigmaEx02.iml" filepath="$PROJECT_DIR$/.idea/BreakingTheEnigmaEx02.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheEnigmaEx02/BreakingTheEnigmaEx02/DTOObjects/DTOObjects.iml" filepath="$PROJECT_DIR$/TheEnigmaEx02/BreakingTheEnigmaEx02/DTOObjects/DTOObjects.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheEnigmaEx02/BreakingTheEnigmaEx02/EngimaEngine/EngimaEngine.iml" filepath="$PROJECT_DIR$/TheEnigmaEx02/BreakingTheEnigmaEx02/EngimaEngine/EngimaEngine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheEnigmaEx02/BreakingTheEnigmaEx02/EnigmaUI/EnigmaUI.iml" filepath="$PROJECT_DIR$/TheEnigmaEx02/BreakingTheEnigmaEx02/EnigmaUI/EnigmaUI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TheEnigmaEx02/BreakingTheEnigmaEx02/JavafxUI/JavafxUI.iml" filepath="$PROJECT_DIR$/TheEnigmaEx02/BreakingTheEnigmaEx02/JavafxUI/JavafxUI.iml" />
+    </modules>
+  </component>
+</project>

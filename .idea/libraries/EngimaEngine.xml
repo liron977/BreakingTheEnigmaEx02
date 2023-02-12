@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="EngimaEngine">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/TheEnigmaEx02/BreakingTheEnigmaEx02/out/artifacts/EngimaEngine/EngimaEngine.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

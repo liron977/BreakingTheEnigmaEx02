@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="JavafxUI">
+    <output-path>$PROJECT_DIR$/out/artifacts/JavafxUI</output-path>
+    <root id="archive" name="JavafxUI.jar">
+      <element id="module-output" name="JavafxUI" />
+      <element id="module-output" name="EngimaEngine" />
+      <element id="module-output" name="DTOObjects" />
+      <element id="extracted-dir" path="$USER_HOME$/OneDrive/שולחן העבודה/AnimateFX-1.2.0.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>
